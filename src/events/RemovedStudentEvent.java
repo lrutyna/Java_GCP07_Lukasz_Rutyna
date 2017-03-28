@@ -4,6 +4,7 @@ import java.util.Set;
 
 import example.Student;
 import loger.ConsoleLogger;
+import loger.GUILogger;
 import loger.Logger;
 import loger.MailLogger;
 
@@ -12,7 +13,8 @@ public class RemovedStudentEvent implements Event {
 	final Logger [] loggers = new Logger[]
 			{
 				new ConsoleLogger(),
-				new MailLogger()
+				new MailLogger(),
+				new GUILogger()
 			};
 	
 	@Override

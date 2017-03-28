@@ -61,7 +61,7 @@ public class Crawler implements Runnable {
 			
 			//odczekanie 10 sekund
 			try {
-				Thread.sleep(5000);
+				Thread.sleep(10000);
 				iterationCount++;
 			} catch (InterruptedException e) {
 				e.printStackTrace();
