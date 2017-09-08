@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.paint.*?>
+<?import javafx.scene.text.*?>
+<?import javafx.geometry.*?>
+<?import javafx.scene.control.*?>
+<?import java.lang.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.layout.AnchorPane?>
+
+<AnchorPane prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="controller.LoggingController">
+   <children>
+      <Button fx:id="loggingButton" layoutX="263.0" layoutY="239.0" mnemonicParsing="false" onAction="#onLogging" text="Logowanie" />
+      <Button fx:id="registerButton" layoutX="264.0" layoutY="273.0" mnemonicParsing="false" onAction="#onRegister" text="Rejestracja" />
+      <HBox layoutX="200.0" layoutY="139.0" prefHeight="68.0" prefWidth="200.0">
+         <children>
+            <VBox prefHeight="75.0" prefWidth="43.0">
+               <children>
+                  <Label prefHeight="23.0" prefWidth="100.0" text="Login">
+                     <font>
+                        <Font size="15.0" />
+                     </font>
+                  </Label>
+                  <Label prefHeight="23.0" prefWidth="102.0" text="Hasło">
+                     <VBox.margin>
+                        <Insets top="15.0" />
+                     </VBox.margin>
+                     <font>
+                        <Font size="15.0" />
+                     </font>
+                  </Label>
+               </children>
+            </VBox>
+            <VBox prefHeight="75.0" prefWidth="141.0">
+               <children>
+                  <TextField fx:id="textField1" />
+                  <PasswordField fx:id="passwordField">
+                     <VBox.margin>
+                        <Insets top="12.0" />
+                     </VBox.margin>
+                  </PasswordField>
+               </children>
+            </VBox>
+         </children>
+      </HBox>
+      <Label fx:id="infoLabel" layoutX="236.0" layoutY="216.0" textFill="#f20606" AnchorPane.leftAnchor="225.0" />
+   </children>
+</AnchorPane>

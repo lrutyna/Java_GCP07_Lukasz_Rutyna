@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.text.*?>
+<?import javafx.geometry.*?>
+<?import javafx.scene.control.*?>
+<?import java.lang.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.layout.AnchorPane?>
+
+<AnchorPane prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="controller.RegisterController">
+   <children>
+      <HBox layoutX="102.0" layoutY="24.0" prefHeight="298.0" prefWidth="177.0" AnchorPane.bottomAnchor="78.0" AnchorPane.leftAnchor="102.0" AnchorPane.rightAnchor="321.0" AnchorPane.topAnchor="24.0">
+         <children>
+            <VBox prefHeight="265.0" prefWidth="74.0">
+               <children>
+                  <Label prefHeight="25.0" prefWidth="100.0" text="Login" />
+                  <Label prefHeight="25.0" prefWidth="100.0" text="Hasło">
+                     <VBox.margin>
+                        <Insets top="15.0" />
+                     </VBox.margin>
+                  </Label>
+                  <Label prefHeight="25.0" prefWidth="100.0" text="Imię">
+                     <VBox.margin>
+                        <Insets top="15.0" />
+                     </VBox.margin>
+                  </Label>
+                  <Label prefHeight="25.0" prefWidth="100.0" text="Nazwisko">
+                     <VBox.margin>
+                        <Insets top="15.0" />
+                     </VBox.margin>
+                  </Label>
+                  <Label prefHeight="25.0" prefWidth="100.0" text="Wiek">
+                     <VBox.margin>
+                        <Insets top="15.0" />
+                     </VBox.margin>
+                  </Label>
+                  <Label prefHeight="25.0" prefWidth="100.0" text="Płeć">
+                     <VBox.margin>
+                        <Insets top="15.0" />
+                     </VBox.margin>
+                  </Label>
+                  <Label prefHeight="25.0" prefWidth="100.0" text="Adres e-mail">
+                     <VBox.margin>
+                        <Insets top="15.0" />
+                     </VBox.margin>
+                  </Label>
+               </children>
+            </VBox>
+            <VBox prefHeight="260.0" prefWidth="100.0">
+               <children>
+                  <TextField fx:id="fieldLogin" />
+                  <PasswordField fx:id="fieldPassword">
+                     <VBox.margin>
+                        <Insets top="15.0" />
+                     </VBox.margin>
+                  </PasswordField>
+                  <TextField fx:id="fieldName">
+                     <VBox.margin>
+                        <Insets top="15.0" />
+                     </VBox.margin>
+                  </TextField>
+                  <TextField fx:id="fieldLastname">
+                     <VBox.margin>
+                        <Insets top="15.0" />
+                     </VBox.margin>
+                  </TextField>
+                  <TextField fx:id="fieldAge">
+                     <VBox.margin>
+                        <Insets top="15.0" />
+                     </VBox.margin>
+                  </TextField>
+                  <ChoiceBox fx:id="genderBox" prefHeight="25.0" prefWidth="103.0">
+                     <VBox.margin>
+                        <Insets top="15.0" />
+                     </VBox.margin>
+                  </ChoiceBox>
+                  <TextField fx:id="fieldMail">
+                     <VBox.margin>
+                        <Insets top="15.0" />
+                     </VBox.margin>
+                  </TextField>
+               </children>
+            </VBox>
+         </children>
+      </HBox>
+      <Button fx:id="okButton" layoutX="246.0" layoutY="343.0" mnemonicParsing="false" onAction="#onOKaction" text="OK" />
+      <Button fx:id="backButton" layoutX="307.0" layoutY="343.0" mnemonicParsing="false" onAction="#onBackAction" text="Powrót" />
+      <Label fx:id="infoLabel" layoutX="342.0" layoutY="297.0" prefHeight="17.0" prefWidth="218.0" textFill="#f50909" />
+      <HBox layoutX="343.0" layoutY="73.0" prefHeight="192.0" prefWidth="200.0">
+         <children>
+            <VBox prefHeight="192.0" prefWidth="90.0">
+               <children>
+                  <Label prefHeight="25.0" prefWidth="26.0" text="Ulica" />
+                  <Label minHeight="25.0" text="Nr domu/lokalu">
+                     <VBox.margin>
+                        <Insets top="15.0" />
+                     </VBox.margin>
+                  </Label>
+                  <Label minHeight="25.0" text="Kod pocztowy">
+                     <VBox.margin>
+                        <Insets top="15.0" />
+                     </VBox.margin>
+                  </Label>
+                  <Label prefHeight="25.0" prefWidth="49.0" text="Miasto">
+                     <VBox.margin>
+                        <Insets top="15.0" />
+                     </VBox.margin>
+                  </Label>
+                  <Label minHeight="25.0" prefHeight="25.0" text="Kraj">
+                     <VBox.margin>
+                        <Insets top="15.0" />
+                     </VBox.margin>
+                  </Label>
+               </children>
+            </VBox>
+            <VBox prefHeight="192.0" prefWidth="104.0">
+               <children>
+                  <TextField fx:id="streetField" />
+                  <TextField fx:id="localField">
+                     <VBox.margin>
+                        <Insets top="15.0" />
+                     </VBox.margin>
+                  </TextField>
+                  <TextField fx:id="postcodeField" prefHeight="25.0" prefWidth="107.0">
+                     <VBox.margin>
+                        <Insets top="15.0" />
+                     </VBox.margin>
+                  </TextField>
+                  <TextField fx:id="cityField">
+                     <VBox.margin>
+                        <Insets top="15.0" />
+                     </VBox.margin>
+                  </TextField>
+                  <TextField fx:id="countryField" editable="false" text="Polska">
+                     <VBox.margin>
+                        <Insets top="15.0" />
+                     </VBox.margin>
+                  </TextField>
+               </children>
+            </VBox>
+         </children>
+      </HBox>
+   </children>
+</AnchorPane>

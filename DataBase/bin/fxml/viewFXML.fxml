@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import java.lang.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.layout.AnchorPane?>
+
+<AnchorPane prefHeight="553.0" prefWidth="700.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="controller.ViewController">
+   <children>
+      <TableView fx:id="tableView" editable="true" layoutX="5.0" layoutY="41.0" onMouseReleased="#onReleased" prefHeight="359.0" prefWidth="700.0" AnchorPane.bottomAnchor="194.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="0.0">
+        <columns>
+          <TableColumn fx:id="loginColumn" prefWidth="100.0" text="login" />
+          <TableColumn fx:id="passwordColumn" prefWidth="100.0" text="hasło" />
+            <TableColumn fx:id="nameColumn" prefWidth="100.0" text="imię" />
+            <TableColumn fx:id="lastNameColumn" prefWidth="100.0" text="nazwisko" />
+            <TableColumn fx:id="ageColumn" prefWidth="100.0" text="wiek" />
+            <TableColumn fx:id="genderColumn" prefWidth="100.0" text="płeć" />
+            <TableColumn fx:id="emailColumn" prefWidth="100.0" text="e-mail" />
+        </columns>
+      </TableView>
+      <Button fx:id="readButton" layoutX="139.0" layoutY="396.0" mnemonicParsing="false" onAction="#onRead" text="Pobierz" />
+      <Button fx:id="addButton" disable="true" layoutX="223.0" layoutY="396.0" mnemonicParsing="false" onAction="#onAdd" text="Dodaj" />
+      <Button fx:id="deleteButton" disable="true" layoutX="289.0" layoutY="396.0" mnemonicParsing="false" onAction="#onDelete" text="Usuń" />
+      <TableView fx:id="tableView2" layoutX="21.0" layoutY="453.0" prefHeight="73.0" prefWidth="500.0">
+        <columns>
+          <TableColumn fx:id="cityColumn" prefWidth="100.0" text="miasto" />
+          <TableColumn fx:id="streetColumn" prefWidth="100.0" text="ulica" />
+            <TableColumn fx:id="localNumberColumn" prefWidth="100.0" text="numer" />
+            <TableColumn fx:id="postcodeColumn" prefWidth="100.0" text="kod pocztowy" />
+            <TableColumn fx:id="countryColumn" prefWidth="100.0" text="kraj" />
+        </columns>
+      </TableView>
+      <TableView fx:id="tableView3" layoutX="535.0" layoutY="453.0" prefHeight="73.0" prefWidth="145.0">
+        <columns>
+          <TableColumn fx:id="loggingHistoryColumn" prefWidth="145.0" text="ostatnie logowanie" />
+        </columns>
+      </TableView>
+      <Button fx:id="editButton" disable="true" layoutX="350.0" layoutY="396.0" mnemonicParsing="false" onAction="#onEdit" text="Edytuj" />
+   </children>
+</AnchorPane>

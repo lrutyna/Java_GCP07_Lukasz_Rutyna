@@ -1,0 +1,5 @@
+5.0;Jan2;Czech2;23
+3.0;Jan3;Czech3;22
+3.0;Jan4;Czech4;22
+3.0;Jan5;Czech5;21
+5.0;Jan6;Czech6;21

@@ -1,0 +1,6 @@
+5.0;Jan2;Krzeminski2;23
+3.0;Jan3;Krzeminski3;25
+3.0;Jan4;Krzeminski4;22
+4.0;Jan5;Krzeminski5;23
+5.0;Jan6;Krzeminski6;21
+4.0;Jan7;Krzeminski7;22

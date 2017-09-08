@@ -1,0 +1,5 @@
+5.0;Jan2;Harasin2;23
+3.0;Jan3;Harasin3;22
+3.0;Jan4;Harasin4;22
+3.0;Jan5;Harasin5;21
+5.0;Jan6;Harasin6;21

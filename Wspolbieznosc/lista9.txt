@@ -1,0 +1,5 @@
+5.0;Jan2;Stachura2;23
+3.0;Jan3;Stachura3;22
+3.0;Jan4;Stachura4;22
+3.0;Jan5;Stachura5;21
+5.0;Jan6;Stachura6;21

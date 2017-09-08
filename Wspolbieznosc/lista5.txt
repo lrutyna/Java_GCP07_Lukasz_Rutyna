@@ -1,0 +1,5 @@
+5.0;Jan2;Malinowski2;23
+3.0;Jan3;Malinowski;22
+3.0;Jan4;Malinowski4;22
+3.0;Jan5;Malinowski5;21
+5.0;Jan6;Malinowski6;21
