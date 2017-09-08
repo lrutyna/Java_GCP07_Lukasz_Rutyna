@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import java.lang.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.AnchorPane?>
+
+<TableView fx:id="customTableView" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="600.0" AnchorPane.bottomAnchor="0.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="0.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="controller.CTVcontroller">
+  <columns>
+    <TableColumn fx:id="markColumn" prefWidth="75.0" text="Mark" />
+    <TableColumn fx:id="firstNameColumn" prefWidth="75.0" text="FirstName" />
+      <TableColumn fx:id="lastNameColumn" prefWidth="75.0" text="LastName" />
+      <TableColumn fx:id="ageColumn" prefWidth="75.0" text="Age" />
+  </columns>
+   <columnResizePolicy>
+      <TableView fx:constant="CONSTRAINED_RESIZE_POLICY" />
+   </columnResizePolicy>
+</TableView>
