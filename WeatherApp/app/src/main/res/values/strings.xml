@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">WeatherApp</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="location_name">Wprowadź nazwę miasta:</string>
+    <string name="temperature">Temperatura:</string>
+    <string name="wind">Wiatr:</string>
+    <string name="pressure">Ciśnienie:</string>
+    <string name="humidity">Wilgotoność:</string>
+    <string name="weather">Pogoda</string>
+</resources>

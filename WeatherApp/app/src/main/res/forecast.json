@@ -1,0 +1,1178 @@
+{
+  "cod": "200",
+  "message": 0.0036,
+  "cnt": 36,
+  "list": [
+    {
+      "dt": 1501502400,
+      "main": {
+        "temp": 290.49,
+        "temp_min": 289.734,
+        "temp_max": 290.49,
+        "pressure": 1001.64,
+        "sea_level": 1035.6,
+        "grnd_level": 1001.64,
+        "humidity": 80,
+        "temp_kf": 0.76
+      },
+      "weather": [
+        {
+          "id": 800,
+          "main": "Clear",
+          "description": "bezchmurnie",
+          "icon": "01d"
+        }
+      ],
+      "clouds": {
+        "all": 0
+      },
+      "wind": {
+        "speed": 1.61,
+        "deg": 359.5
+      },
+      "sys": {
+        "pod": "d"
+      },
+      "dt_txt": "2017-07-31 12:00:00"
+    },
+    {
+      "dt": 1501513200,
+      "main": {
+        "temp": 298.66,
+        "temp_min": 298.094,
+        "temp_max": 298.66,
+        "pressure": 1002.22,
+        "sea_level": 1035.82,
+        "grnd_level": 1002.22,
+        "humidity": 82,
+        "temp_kf": 0.57
+      },
+      "weather": [
+        {
+          "id": 801,
+          "main": "Clouds",
+          "description": "lekkie zachmurzenie",
+          "icon": "02d"
+        }
+      ],
+      "clouds": {
+        "all": 24
+      },
+      "wind": {
+        "speed": 2.07,
+        "deg": 42.5015
+      },
+      "sys": {
+        "pod": "d"
+      },
+      "dt_txt": "2017-07-31 15:00:00"
+    },
+    {
+      "dt": 1501524000,
+      "main": {
+        "temp": 300.72,
+        "temp_min": 300.339,
+        "temp_max": 300.72,
+        "pressure": 1001.31,
+        "sea_level": 1034.77,
+        "grnd_level": 1001.31,
+        "humidity": 76,
+        "temp_kf": 0.38
+      },
+      "weather": [
+        {
+          "id": 800,
+          "main": "Clear",
+          "description": "bezchmurnie",
+          "icon": "02d"
+        }
+      ],
+      "clouds": {
+        "all": 8
+      },
+      "wind": {
+        "speed": 2.06,
+        "deg": 58.5043
+      },
+      "sys": {
+        "pod": "d"
+      },
+      "dt_txt": "2017-07-31 18:00:00"
+    },
+    {
+      "dt": 1501534800,
+      "main": {
+        "temp": 301.13,
+        "temp_min": 300.94,
+        "temp_max": 301.13,
+        "pressure": 999.94,
+        "sea_level": 1033.25,
+        "grnd_level": 999.94,
+        "humidity": 70,
+        "temp_kf": 0.19
+      },
+      "weather": [
+        {
+          "id": 800,
+          "main": "Clear",
+          "description": "bezchmurnie",
+          "icon": "01d"
+        }
+      ],
+      "clouds": {
+        "all": 0
+      },
+      "wind": {
+        "speed": 2.05,
+        "deg": 61.5002
+      },
+      "sys": {
+        "pod": "d"
+      },
+      "dt_txt": "2017-07-31 21:00:00"
+    },
+    {
+      "dt": 1501545600,
+      "main": {
+        "temp": 298.573,
+        "temp_min": 298.573,
+        "temp_max": 298.573,
+        "pressure": 999.48,
+        "sea_level": 1032.93,
+        "grnd_level": 999.48,
+        "humidity": 79,
+        "temp_kf": 0
+      },
+      "weather": [
+        {
+          "id": 800,
+          "main": "Clear",
+          "description": "bezchmurnie",
+          "icon": "01n"
+        }
+      ],
+      "clouds": {
+        "all": 0
+      },
+      "wind": {
+        "speed": 1.27,
+        "deg": 57.5004
+      },
+      "sys": {
+        "pod": "n"
+      },
+      "dt_txt": "2017-08-01 00:00:00"
+    },
+    {
+      "dt": 1501556400,
+      "main": {
+        "temp": 291.573,
+        "temp_min": 291.573,
+        "temp_max": 291.573,
+        "pressure": 999.84,
+        "sea_level": 1033.63,
+        "grnd_level": 999.84,
+        "humidity": 83,
+        "temp_kf": 0
+      },
+      "weather": [
+        {
+          "id": 800,
+          "main": "Clear",
+          "description": "bezchmurnie",
+          "icon": "01n"
+        }
+      ],
+      "clouds": {
+        "all": 0
+      },
+      "wind": {
+        "speed": 1.01,
+        "deg": 107.005
+      },
+      "sys": {
+        "pod": "n"
+      },
+      "dt_txt": "2017-08-01 03:00:00"
+    },
+    {
+      "dt": 1501567200,
+      "main": {
+        "temp": 289.235,
+        "temp_min": 289.235,
+        "temp_max": 289.235,
+        "pressure": 999.38,
+        "sea_level": 1033.25,
+        "grnd_level": 999.38,
+        "humidity": 83,
+        "temp_kf": 0
+      },
+      "weather": [
+        {
+          "id": 800,
+          "main": "Clear",
+          "description": "bezchmurnie",
+          "icon": "02n"
+        }
+      ],
+      "clouds": {
+        "all": 8
+      },
+      "wind": {
+        "speed": 0.49,
+        "deg": 209.513
+      },
+      "sys": {
+        "pod": "n"
+      },
+      "dt_txt": "2017-08-01 06:00:00"
+    },
+    {
+      "dt": 1501578000,
+      "main": {
+        "temp": 288.332,
+        "temp_min": 288.332,
+        "temp_max": 288.332,
+        "pressure": 999.37,
+        "sea_level": 1033.23,
+        "grnd_level": 999.37,
+        "humidity": 83,
+        "temp_kf": 0
+      },
+      "weather": [
+        {
+          "id": 801,
+          "main": "Clouds",
+          "description": "lekkie zachmurzenie",
+          "icon": "02n"
+        }
+      ],
+      "clouds": {
+        "all": 12
+      },
+      "wind": {
+        "speed": 1.3,
+        "deg": 304.017
+      },
+      "sys": {
+        "pod": "n"
+      },
+      "dt_txt": "2017-08-01 09:00:00"
+    },
+    {
+      "dt": 1501588800,
+      "main": {
+        "temp": 291.367,
+        "temp_min": 291.367,
+        "temp_max": 291.367,
+        "pressure": 999.78,
+        "sea_level": 1033.55,
+        "grnd_level": 999.78,
+        "humidity": 82,
+        "temp_kf": 0
+      },
+      "weather": [
+        {
+          "id": 801,
+          "main": "Clouds",
+          "description": "lekkie zachmurzenie",
+          "icon": "02d"
+        }
+      ],
+      "clouds": {
+        "all": 20
+      },
+      "wind": {
+        "speed": 1.31,
+        "deg": 352.5
+      },
+      "sys": {
+        "pod": "d"
+      },
+      "dt_txt": "2017-08-01 12:00:00"
+    },
+    {
+      "dt": 1501599600,
+      "main": {
+        "temp": 299.492,
+        "temp_min": 299.492,
+        "temp_max": 299.492,
+        "pressure": 999.9,
+        "sea_level": 1033.35,
+        "grnd_level": 999.9,
+        "humidity": 83,
+        "temp_kf": 0
+      },
+      "weather": [
+        {
+          "id": 801,
+          "main": "Clouds",
+          "description": "lekkie zachmurzenie",
+          "icon": "02d"
+        }
+      ],
+      "clouds": {
+        "all": 24
+      },
+      "wind": {
+        "speed": 1.91,
+        "deg": 56.502
+      },
+      "sys": {
+        "pod": "d"
+      },
+      "dt_txt": "2017-08-01 15:00:00"
+    },
+    {
+      "dt": 1501610400,
+      "main": {
+        "temp": 301.104,
+        "temp_min": 301.104,
+        "temp_max": 301.104,
+        "pressure": 999,
+        "sea_level": 1032.33,
+        "grnd_level": 999,
+        "humidity": 75,
+        "temp_kf": 0
+      },
+      "weather": [
+        {
+          "id": 802,
+          "main": "Clouds",
+          "description": "rozproszone chmury",
+          "icon": "03d"
+        }
+      ],
+      "clouds": {
+        "all": 44
+      },
+      "wind": {
+        "speed": 1.86,
+        "deg": 132.501
+      },
+      "sys": {
+        "pod": "d"
+      },
+      "dt_txt": "2017-08-01 18:00:00"
+    },
+    {
+      "dt": 1501621200,
+      "main": {
+        "temp": 301.289,
+        "temp_min": 301.289,
+        "temp_max": 301.289,
+        "pressure": 997.79,
+        "sea_level": 1031.02,
+        "grnd_level": 997.79,
+        "humidity": 68,
+        "temp_kf": 0
+      },
+      "weather": [
+        {
+          "id": 802,
+          "main": "Clouds",
+          "description": "rozproszone chmury",
+          "icon": "03d"
+        }
+      ],
+      "clouds": {
+        "all": 32
+      },
+      "wind": {
+        "speed": 2.01,
+        "deg": 140.501
+      },
+      "sys": {
+        "pod": "d"
+      },
+      "dt_txt": "2017-08-01 21:00:00"
+    },
+    {
+      "dt": 1501632000,
+      "main": {
+        "temp": 299.031,
+        "temp_min": 299.031,
+        "temp_max": 299.031,
+        "pressure": 997.14,
+        "sea_level": 1030.44,
+        "grnd_level": 997.14,
+        "humidity": 78,
+        "temp_kf": 0
+      },
+      "weather": [
+        {
+          "id": 801,
+          "main": "Clouds",
+          "description": "lekkie zachmurzenie",
+          "icon": "02n"
+        }
+      ],
+      "clouds": {
+        "all": 24
+      },
+      "wind": {
+        "speed": 1.21,
+        "deg": 116.002
+      },
+      "sys": {
+        "pod": "n"
+      },
+      "dt_txt": "2017-08-02 00:00:00"
+    },
+    {
+      "dt": 1501642800,
+      "main": {
+        "temp": 293.388,
+        "temp_min": 293.388,
+        "temp_max": 293.388,
+        "pressure": 997.65,
+        "sea_level": 1031.23,
+        "grnd_level": 997.65,
+        "humidity": 82,
+        "temp_kf": 0
+      },
+      "weather": [
+        {
+          "id": 803,
+          "main": "Clouds",
+          "description": "pochmurno z przejaśnieniami",
+          "icon": "04n"
+        }
+      ],
+      "clouds": {
+        "all": 68
+      },
+      "wind": {
+        "speed": 0.92,
+        "deg": 48.0025
+      },
+      "sys": {
+        "pod": "n"
+      },
+      "dt_txt": "2017-08-02 03:00:00"
+    },
+    {
+      "dt": 1501653600,
+      "main": {
+        "temp": 292.372,
+        "temp_min": 292.372,
+        "temp_max": 292.372,
+        "pressure": 997.5,
+        "sea_level": 1031.11,
+        "grnd_level": 997.5,
+        "humidity": 83,
+        "temp_kf": 0
+      },
+      "weather": [
+        {
+          "id": 803,
+          "main": "Clouds",
+          "description": "pochmurno z przejaśnieniami",
+          "icon": "04n"
+        }
+      ],
+      "clouds": {
+        "all": 80
+      },
+      "wind": {
+        "speed": 1.07,
+        "deg": 60.0029
+      },
+      "sys": {
+        "pod": "n"
+      },
+      "dt_txt": "2017-08-02 06:00:00"
+    },
+    {
+      "dt": 1501664400,
+      "main": {
+        "temp": 292.306,
+        "temp_min": 292.306,
+        "temp_max": 292.306,
+        "pressure": 997.24,
+        "sea_level": 1030.9,
+        "grnd_level": 997.24,
+        "humidity": 84,
+        "temp_kf": 0
+      },
+      "weather": [
+        {
+          "id": 803,
+          "main": "Clouds",
+          "description": "pochmurno z przejaśnieniami",
+          "icon": "04n"
+        }
+      ],
+      "clouds": {
+        "all": 80
+      },
+      "wind": {
+        "speed": 1.21,
+        "deg": 95.5005
+      },
+      "sys": {
+        "pod": "n"
+      },
+      "dt_txt": "2017-08-02 09:00:00"
+    },
+    {
+      "dt": 1501675200,
+      "main": {
+        "temp": 293.795,
+        "temp_min": 293.795,
+        "temp_max": 293.795,
+        "pressure": 997.72,
+        "sea_level": 1031.33,
+        "grnd_level": 997.72,
+        "humidity": 86,
+        "temp_kf": 0
+      },
+      "weather": [
+        {
+          "id": 803,
+          "main": "Clouds",
+          "description": "pochmurno z przejaśnieniami",
+          "icon": "04d"
+        }
+      ],
+      "clouds": {
+        "all": 68
+      },
+      "wind": {
+        "speed": 1.26,
+        "deg": 99.5039
+      },
+      "sys": {
+        "pod": "d"
+      },
+      "dt_txt": "2017-08-02 12:00:00"
+    },
+    {
+      "dt": 1501686000,
+      "main": {
+        "temp": 299.162,
+        "temp_min": 299.162,
+        "temp_max": 299.162,
+        "pressure": 997.89,
+        "sea_level": 1031.38,
+        "grnd_level": 997.89,
+        "humidity": 82,
+        "temp_kf": 0
+      },
+      "weather": [
+        {
+          "id": 803,
+          "main": "Clouds",
+          "description": "pochmurno z przejaśnieniami",
+          "icon": "04d"
+        }
+      ],
+      "clouds": {
+        "all": 56
+      },
+      "wind": {
+        "speed": 2.07,
+        "deg": 105.005
+      },
+      "sys": {
+        "pod": "d"
+      },
+      "dt_txt": "2017-08-02 15:00:00"
+    },
+    {
+      "dt": 1501696800,
+      "main": {
+        "temp": 301.528,
+        "temp_min": 301.528,
+        "temp_max": 301.528,
+        "pressure": 997.38,
+        "sea_level": 1030.71,
+        "grnd_level": 997.38,
+        "humidity": 75,
+        "temp_kf": 0
+      },
+      "weather": [
+        {
+          "id": 800,
+          "main": "Clear",
+          "description": "bezchmurnie",
+          "icon": "02d"
+        }
+      ],
+      "clouds": {
+        "all": 8
+      },
+      "wind": {
+        "speed": 1.72,
+        "deg": 182.003
+      },
+      "sys": {
+        "pod": "d"
+      },
+      "dt_txt": "2017-08-02 18:00:00"
+    },
+    {
+      "dt": 1501707600,
+      "main": {
+        "temp": 301.529,
+        "temp_min": 301.529,
+        "temp_max": 301.529,
+        "pressure": 996.18,
+        "sea_level": 1029.56,
+        "grnd_level": 996.18,
+        "humidity": 67,
+        "temp_kf": 0
+      },
+      "weather": [
+        {
+          "id": 802,
+          "main": "Clouds",
+          "description": "rozproszone chmury",
+          "icon": "03d"
+        }
+      ],
+      "clouds": {
+        "all": 32
+      },
+      "wind": {
+        "speed": 2.07,
+        "deg": 224.004
+      },
+      "sys": {
+        "pod": "d"
+      },
+      "dt_txt": "2017-08-02 21:00:00"
+    },
+    {
+      "dt": 1501718400,
+      "main": {
+        "temp": 299.634,
+        "temp_min": 299.634,
+        "temp_max": 299.634,
+        "pressure": 996.37,
+        "sea_level": 1029.8,
+        "grnd_level": 996.37,
+        "humidity": 75,
+        "temp_kf": 0
+      },
+      "weather": [
+        {
+          "id": 801,
+          "main": "Clouds",
+          "description": "lekkie zachmurzenie",
+          "icon": "02n"
+        }
+      ],
+      "clouds": {
+        "all": 12
+      },
+      "wind": {
+        "speed": 1.36,
+        "deg": 191.005
+      },
+      "sys": {
+        "pod": "n"
+      },
+      "dt_txt": "2017-08-03 00:00:00"
+    },
+    {
+      "dt": 1501729200,
+      "main": {
+        "temp": 294.436,
+        "temp_min": 294.436,
+        "temp_max": 294.436,
+        "pressure": 997.14,
+        "sea_level": 1030.73,
+        "grnd_level": 997.14,
+        "humidity": 75,
+        "temp_kf": 0
+      },
+      "weather": [
+        {
+          "id": 802,
+          "main": "Clouds",
+          "description": "rozproszone chmury",
+          "icon": "03n"
+        }
+      ],
+      "clouds": {
+        "all": 32
+      },
+      "wind": {
+        "speed": 2.91,
+        "deg": 196.004
+      },
+      "sys": {
+        "pod": "n"
+      },
+      "dt_txt": "2017-08-03 03:00:00"
+    },
+    {
+      "dt": 1501740000,
+      "main": {
+        "temp": 291.729,
+        "temp_min": 291.729,
+        "temp_max": 291.729,
+        "pressure": 997.04,
+        "sea_level": 1030.77,
+        "grnd_level": 997.04,
+        "humidity": 88,
+        "temp_kf": 0
+      },
+      "weather": [
+        {
+          "id": 801,
+          "main": "Clouds",
+          "description": "lekkie zachmurzenie",
+          "icon": "02n"
+        }
+      ],
+      "clouds": {
+        "all": 20
+      },
+      "wind": {
+        "speed": 1.42,
+        "deg": 210.501
+      },
+      "sys": {
+        "pod": "n"
+      },
+      "dt_txt": "2017-08-03 06:00:00"
+    },
+    {
+      "dt": 1501750800,
+      "main": {
+        "temp": 291.775,
+        "temp_min": 291.775,
+        "temp_max": 291.775,
+        "pressure": 997.27,
+        "sea_level": 1031.02,
+        "grnd_level": 997.27,
+        "humidity": 87,
+        "temp_kf": 0
+      },
+      "weather": [
+        {
+          "id": 800,
+          "main": "Clear",
+          "description": "bezchmurnie",
+          "icon": "02n"
+        }
+      ],
+      "clouds": {
+        "all": 8
+      },
+      "wind": {
+        "speed": 3.26,
+        "deg": 225.001
+      },
+      "sys": {
+        "pod": "n"
+      },
+      "dt_txt": "2017-08-03 09:00:00"
+    },
+    {
+      "dt": 1501761600,
+      "main": {
+        "temp": 292.965,
+        "temp_min": 292.965,
+        "temp_max": 292.965,
+        "pressure": 998.25,
+        "sea_level": 1032.02,
+        "grnd_level": 998.25,
+        "humidity": 83,
+        "temp_kf": 0
+      },
+      "weather": [
+        {
+          "id": 800,
+          "main": "Clear",
+          "description": "bezchmurnie",
+          "icon": "01d"
+        }
+      ],
+      "clouds": {
+        "all": 0
+      },
+      "wind": {
+        "speed": 3.91,
+        "deg": 246.507
+      },
+      "sys": {
+        "pod": "d"
+      },
+      "dt_txt": "2017-08-03 12:00:00"
+    },
+    {
+      "dt": 1501772400,
+      "main": {
+        "temp": 298.399,
+        "temp_min": 298.399,
+        "temp_max": 298.399,
+        "pressure": 998.77,
+        "sea_level": 1032.25,
+        "grnd_level": 998.77,
+        "humidity": 81,
+        "temp_kf": 0
+      },
+      "weather": [
+        {
+          "id": 800,
+          "main": "Clear",
+          "description": "bezchmurnie",
+          "icon": "02d"
+        }
+      ],
+      "clouds": {
+        "all": 8
+      },
+      "wind": {
+        "speed": 4.11,
+        "deg": 238.503
+      },
+      "sys": {
+        "pod": "d"
+      },
+      "dt_txt": "2017-08-03 15:00:00"
+    },
+    {
+      "dt": 1501783200,
+      "main": {
+        "temp": 299.864,
+        "temp_min": 299.864,
+        "temp_max": 299.864,
+        "pressure": 997.71,
+        "sea_level": 1031.08,
+        "grnd_level": 997.71,
+        "humidity": 80,
+        "temp_kf": 0
+      },
+      "weather": [
+        {
+          "id": 801,
+          "main": "Clouds",
+          "description": "lekkie zachmurzenie",
+          "icon": "02d"
+        }
+      ],
+      "clouds": {
+        "all": 24
+      },
+      "wind": {
+        "speed": 3.93,
+        "deg": 219.503
+      },
+      "sys": {
+        "pod": "d"
+      },
+      "dt_txt": "2017-08-03 18:00:00"
+    },
+    {
+      "dt": 1501794000,
+      "main": {
+        "temp": 299.958,
+        "temp_min": 299.958,
+        "temp_max": 299.958,
+        "pressure": 996.42,
+        "sea_level": 1029.77,
+        "grnd_level": 996.42,
+        "humidity": 73,
+        "temp_kf": 0
+      },
+      "weather": [
+        {
+          "id": 801,
+          "main": "Clouds",
+          "description": "lekkie zachmurzenie",
+          "icon": "02d"
+        }
+      ],
+      "clouds": {
+        "all": 12
+      },
+      "wind": {
+        "speed": 3.74,
+        "deg": 180.002
+      },
+      "sys": {
+        "pod": "d"
+      },
+      "dt_txt": "2017-08-03 21:00:00"
+    },
+    {
+      "dt": 1501804800,
+      "main": {
+        "temp": 298.16,
+        "temp_min": 298.16,
+        "temp_max": 298.16,
+        "pressure": 996.64,
+        "sea_level": 1030.05,
+        "grnd_level": 996.64,
+        "humidity": 71,
+        "temp_kf": 0
+      },
+      "weather": [
+        {
+          "id": 803,
+          "main": "Clouds",
+          "description": "pochmurno z przejaśnieniami",
+          "icon": "04n"
+        }
+      ],
+      "clouds": {
+        "all": 64
+      },
+      "wind": {
+        "speed": 3.15,
+        "deg": 186.006
+      },
+      "sys": {
+        "pod": "n"
+      },
+      "dt_txt": "2017-08-04 00:00:00"
+    },
+    {
+      "dt": 1501815600,
+      "main": {
+        "temp": 295.666,
+        "temp_min": 295.666,
+        "temp_max": 295.666,
+        "pressure": 996.84,
+        "sea_level": 1030.41,
+        "grnd_level": 996.84,
+        "humidity": 77,
+        "temp_kf": 0
+      },
+      "weather": [
+        {
+          "id": 801,
+          "main": "Clouds",
+          "description": "lekkie zachmurzenie",
+          "icon": "02n"
+        }
+      ],
+      "clouds": {
+        "all": 12
+      },
+      "wind": {
+        "speed": 3.42,
+        "deg": 175.005
+      },
+      "sys": {
+        "pod": "n"
+      },
+      "dt_txt": "2017-08-04 03:00:00"
+    },
+    {
+      "dt": 1501826400,
+      "main": {
+        "temp": 293.304,
+        "temp_min": 293.304,
+        "temp_max": 293.304,
+        "pressure": 995.75,
+        "sea_level": 1029.35,
+        "grnd_level": 995.75,
+        "humidity": 92,
+        "temp_kf": 0
+      },
+      "weather": [
+        {
+          "id": 800,
+          "main": "Clear",
+          "description": "bezchmurnie",
+          "icon": "02n"
+        }
+      ],
+      "clouds": {
+        "all": 8
+      },
+      "wind": {
+        "speed": 3.46,
+        "deg": 185.001
+      },
+      "sys": {
+        "pod": "n"
+      },
+      "dt_txt": "2017-08-04 06:00:00"
+    },
+    {
+      "dt": 1501837200,
+      "main": {
+        "temp": 292.672,
+        "temp_min": 292.672,
+        "temp_max": 292.672,
+        "pressure": 994.8,
+        "sea_level": 1028.39,
+        "grnd_level": 994.8,
+        "humidity": 94,
+        "temp_kf": 0
+      },
+      "weather": [
+        {
+          "id": 802,
+          "main": "Clouds",
+          "description": "rozproszone chmury",
+          "icon": "03n"
+        }
+      ],
+      "clouds": {
+        "all": 32
+      },
+      "wind": {
+        "speed": 3.65,
+        "deg": 195.017
+      },
+      "sys": {
+        "pod": "n"
+      },
+      "dt_txt": "2017-08-04 09:00:00"
+    },
+    {
+      "dt": 1501848000,
+      "main": {
+        "temp": 292.552,
+        "temp_min": 292.552,
+        "temp_max": 292.552,
+        "pressure": 994.94,
+        "sea_level": 1028.44,
+        "grnd_level": 994.94,
+        "humidity": 100,
+        "temp_kf": 0
+      },
+      "weather": [
+        {
+          "id": 500,
+          "main": "Rain",
+          "description": "lekki deszcz",
+          "icon": "10d"
+        }
+      ],
+      "clouds": {
+        "all": 92
+      },
+      "wind": {
+        "speed": 4.06,
+        "deg": 225.505
+      },
+      "rain": {
+        "3h": 1.85
+      },
+      "sys": {
+        "pod": "d"
+      },
+      "dt_txt": "2017-08-04 12:00:00"
+    },
+    {
+      "dt": 1501858800,
+      "main": {
+        "temp": 295.928,
+        "temp_min": 295.928,
+        "temp_max": 295.928,
+        "pressure": 994.29,
+        "sea_level": 1027.7,
+        "grnd_level": 994.29,
+        "humidity": 94,
+        "temp_kf": 0
+      },
+      "weather": [
+        {
+          "id": 500,
+          "main": "Rain",
+          "description": "lekki deszcz",
+          "icon": "10d"
+        }
+      ],
+      "clouds": {
+        "all": 36
+      },
+      "wind": {
+        "speed": 5.12,
+        "deg": 208.502
+      },
+      "rain": {
+        "3h": 2.55
+      },
+      "sys": {
+        "pod": "d"
+      },
+      "dt_txt": "2017-08-04 15:00:00"
+    },
+    {
+      "dt": 1501869600,
+      "main": {
+        "temp": 299.42,
+        "temp_min": 299.42,
+        "temp_max": 299.42,
+        "pressure": 992.93,
+        "sea_level": 1026.08,
+        "grnd_level": 992.93,
+        "humidity": 80,
+        "temp_kf": 0
+      },
+      "weather": [
+        {
+          "id": 801,
+          "main": "Clouds",
+          "description": "lekkie zachmurzenie",
+          "icon": "02d"
+        }
+      ],
+      "clouds": {
+        "all": 20
+      },
+      "wind": {
+        "speed": 7.07,
+        "deg": 216.5
+      },
+      "rain": {},
+      "sys": {
+        "pod": "d"
+      },
+      "dt_txt": "2017-08-04 18:00:00"
+    },
+    {
+      "dt": 1501880400,
+      "main": {
+        "temp": 299.243,
+        "temp_min": 299.243,
+        "temp_max": 299.243,
+        "pressure": 991.14,
+        "sea_level": 1024.46,
+        "grnd_level": 991.14,
+        "humidity": 82,
+        "temp_kf": 0
+      },
+      "weather": [
+        {
+          "id": 500,
+          "main": "Rain",
+          "description": "lekki deszcz",
+          "icon": "10d"
+        }
+      ],
+      "clouds": {
+        "all": 44
+      },
+      "wind": {
+        "speed": 7.16,
+        "deg": 224.501
+      },
+      "rain": {
+        "3h": 0.75
+      },
+      "sys": {
+        "pod": "d"
+      },
+      "dt_txt": "2017-08-04 21:00:00"
+    }
+  ],
+  "city": {
+    "id": 4517009,
+    "name": "London",
+    "coord": {
+      "lat": 39.8865,
+      "lon": -83.4483
+    },
+    "country": "US"
+  }
+}
